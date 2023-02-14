@@ -1,0 +1,17 @@
+body{
+    background-color: bisque;
+}
+
+aside{
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: gray;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    
+}
+div{
+    margin-left: 500px;
+}
