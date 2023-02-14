@@ -1,17 +1,33 @@
 body{
-    background-color: bisque;
+    background-color: white;
+    margin: 0;
+    padding: 0;
 }
 
 aside{
-    margin: 0;
+    margin: auto;
     padding: 0;
-    width: 200px;
+    width: 100px;
     background-color: gray;
     position: fixed;
     height: 100%;
     overflow: auto;
-    
+    border-radius: 5px;
 }
-div{
+.text {
+    margin-top: 500px;
+}
+
+.main-sec{
+    width: 100%;
+}
+.main-sec img{
+    width: 1000px;
+    opacity: 20%;
+}
+.text{
+    width: 100%;
+    position: relative;
+    margin-top: -30%;
     margin-left: 500px;
 }
